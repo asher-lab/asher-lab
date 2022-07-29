@@ -26,12 +26,12 @@ I am interested in all topics in the surrounding area of
 * Cloud-Native, Kubernetes-Native
 * Cloud in general, Kubernetes, Openshift specific
 * Automation
-* JEE, Node.js, etc
-* DataOps, Kafka
+* Node.js, etc
+* DataOps, Kafka ( still exploring)
 
 ### 💬 Ask me about
 * Kubernetes
-* OpenShift]
+* OpenShift
 * Cloud Native Development
 * Microservices
 * Automation

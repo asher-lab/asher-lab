@@ -38,4 +38,3 @@ I am interested in all topics in the surrounding area of
 
 ### 📫 Good to know:
 
-* <https://cloud.asherl.com>

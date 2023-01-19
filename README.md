@@ -37,4 +37,4 @@ I am interested in all topics in the surrounding area of
 * and all the other topics related from the repositories and articles
 
 ### 📫 Good to know:
-
+* Quantum Computing is nice!

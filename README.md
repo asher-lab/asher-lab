@@ -22,19 +22,11 @@ Working as DevOps Engineer to achieve the aim of every SRE and deliver the appli
 I am interested in all topics in the surrounding area of
 
 * Architecture
-* Microservices
 * Cloud-Native, Kubernetes-Native
-* Cloud in general, Kubernetes, Openshift specific
+* Cloud in general, Kubernetes
 * Automation
 * Spring Boot
 
-### 💬 Ask me about
-* Kubernetes
-* OpenShift
-* Cloud Native Development
-* Microservices
-* Automation
-* and all the other topics related from the repositories and articles
 
 ### 📫 Good to know:
 * Quantum Computing is nice!

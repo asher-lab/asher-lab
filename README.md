@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### 👋 About me
 
 DevOps Enthusiasts...all the roles to successfully realize an IT project from the idea to the smooth operation.
-Working as DevOps Engineer to achieve the aim of every SRE and deliver the application fast and sleek to give more values to every businesses.
 
 I am interested in all topics in the surrounding area of
 

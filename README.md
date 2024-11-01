@@ -24,7 +24,6 @@ I am interested in all topics in the surrounding area of
 * Cloud-Native, Kubernetes-Native
 * Cloud in general, Kubernetes
 * Automation
-* Spring Boot
 
 
 ### 📫 Good to know:
